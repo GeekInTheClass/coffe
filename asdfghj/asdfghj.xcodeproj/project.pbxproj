@@ -13,6 +13,7 @@
 		F7DCEE9F22685F73000B167D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7DCEE9E22685F73000B167D /* Assets.xcassets */; };
 		F7DCEEA222685F73000B167D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F7DCEEA022685F73000B167D /* LaunchScreen.storyboard */; };
 		F7DCEEAA22685FA6000B167D /* Datacenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7DCEEA922685FA6000B167D /* Datacenter.swift */; };
+		F7DCEEAC22686A63000B167D /* ccTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7DCEEAB22686A63000B167D /* ccTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F7DCEEA122685F73000B167D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F7DCEEA322685F73000B167D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F7DCEEA922685FA6000B167D /* Datacenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Datacenter.swift; sourceTree = "<group>"; };
+		F7DCEEAB22686A63000B167D /* ccTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ccTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,7 +42,6 @@
 		F7DCEE8B22685F72000B167D = {
 			isa = PBXGroup;
 			children = (
-				F7DCEEA922685FA6000B167D /* Datacenter.swift */,
 				F7DCEE9622685F72000B167D /* asdfghj */,
 				F7DCEE9522685F72000B167D /* Products */,
 			);
@@ -58,8 +59,10 @@
 			isa = PBXGroup;
 			children = (
 				F7DCEE9722685F72000B167D /* AppDelegate.swift */,
+				F7DCEEA922685FA6000B167D /* Datacenter.swift */,
 				F7DCEE9922685F72000B167D /* ViewController.swift */,
 				F7DCEE9B22685F72000B167D /* Main.storyboard */,
+				F7DCEEAB22686A63000B167D /* ccTableViewController.swift */,
 				F7DCEE9E22685F73000B167D /* Assets.xcassets */,
 				F7DCEEA022685F73000B167D /* LaunchScreen.storyboard */,
 				F7DCEEA322685F73000B167D /* Info.plist */,
@@ -141,6 +144,7 @@
 				F7DCEEAA22685FA6000B167D /* Datacenter.swift in Sources */,
 				F7DCEE9A22685F72000B167D /* ViewController.swift in Sources */,
 				F7DCEE9822685F72000B167D /* AppDelegate.swift in Sources */,
+				F7DCEEAC22686A63000B167D /* ccTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
