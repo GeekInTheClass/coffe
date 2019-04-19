@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5AE919192269BE5C001BD361 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE919182269BE5C001BD361 /* DetailViewController.swift */; };
 		F7DCEE9822685F72000B167D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7DCEE9722685F72000B167D /* AppDelegate.swift */; };
 		F7DCEE9A22685F72000B167D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7DCEE9922685F72000B167D /* ViewController.swift */; };
 		F7DCEE9D22685F72000B167D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F7DCEE9B22685F72000B167D /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5AE919182269BE5C001BD361 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		F7DCEE9422685F72000B167D /* asdfghj.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = asdfghj.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7DCEE9722685F72000B167D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F7DCEE9922685F72000B167D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				F7DCEE9E22685F73000B167D /* Assets.xcassets */,
 				F7DCEEA022685F73000B167D /* LaunchScreen.storyboard */,
 				F7DCEEA322685F73000B167D /* Info.plist */,
+				5AE919182269BE5C001BD361 /* DetailViewController.swift */,
 			);
 			path = asdfghj;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				F7DCEEAA22685FA6000B167D /* Datacenter.swift in Sources */,
 				F7DCEE9A22685F72000B167D /* ViewController.swift in Sources */,
+				5AE919192269BE5C001BD361 /* DetailViewController.swift in Sources */,
 				F7DCEE9822685F72000B167D /* AppDelegate.swift in Sources */,
 				F7DCEEAC22686A63000B167D /* ccTableViewController.swift in Sources */,
 			);
